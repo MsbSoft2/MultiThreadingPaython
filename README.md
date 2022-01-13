@@ -1,4 +1,4 @@
-# MultiThreadingPaython
+# MultiThreadingPython
 Multi Threading in Paython
 
 ```
